@@ -7,32 +7,41 @@ assignees: ''
 
 ---
 
+**OBS: Svarene du sender inn her er åpne og synlige på nettet. Ikke legg inn sensitiv informasjon. Vi har heller ikke tilgang til saken din eller mulighet til å påvirke saksbehandlingsprosesser.
+
 **Beskriv feilen**
-A clear and concise description of what the bug is.
+_Beskriv tydelig hva som er feil på siden. Jo tydeligere du er, desto enklere blir det å finne og fikse feilen._
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**For å gjenskape feilen**
+Steg for å gjenskape feilen:
+_1. Gå til '...'
+2. Klikk på '....'
+3. Skroll ned til '....'
+4. Se feilen_
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Forventet oppførsel**
+_Tydelig beskrivelse hva du forventet skulle skje._
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Skjermbilde**
+_Hvis det hjelper å forklare feilen, legg gjerne ved skjermbilde(r)._
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+Hvilke feil som oppstår kan være avhengig av utstyret og hjelpemidler du bruker:
+
+**Desktop:**
+ - Operativsystem: [f.eks. iOS]
+ - Nettleser [f.eks. chrome, safari]
+ - Versjon [f.eks. 22]
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - Device: [f.eks. iPhone6]
+ - Operativsystem: [f.eks. iOS8.1]
+ - Nettleser [f.eks. stock browser, safari]
+ - Versjon [f.eks. 22]
 
-**Additional context**
-Add any other context about the problem here.
+**Hjelpemidler**
+- Type hjelpemiddel: [f.eks. skjermleser]
+- Navn på hjelpemiddel: [f.eks. JAWS]
+- Versjon: [f.eks. 17]
+
+**Annen informasjon**
+_Annen informasjon som kan hjelpe å fikse feilen._
