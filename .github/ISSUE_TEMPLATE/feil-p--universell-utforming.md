@@ -9,6 +9,12 @@ assignees: ''
 
 **OBS: Svarene du sender inn her er åpne og synlige på nettet. Ikke legg inn sensitiv informasjon. Vi har heller ikke tilgang til saken din eller mulighet til å påvirke saksbehandlingsprosesser.
 
+**URL**
+_Legg inn URL (nettleseradresse) til siden som inneholder feil_
+
+**Innlogget eller utlogget**
+Var du innlogget da du var på siden?
+
 **Beskriv feilen**
 _Beskriv tydelig hva som er feil på siden. Jo tydeligere du er, desto enklere blir det å finne og fikse feilen._
 
