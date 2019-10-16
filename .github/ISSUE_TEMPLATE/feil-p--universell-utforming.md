@@ -38,7 +38,7 @@ Hvilke feil som oppstår kan være avhengig av utstyret og hjelpemidler du bruke
  - Nettleser [f.eks. stock browser, safari]
  - Versjon [f.eks. 22]
 
-**Hjelpemidler**
+**Hjelpemidler:**
 - Type hjelpemiddel: [f.eks. skjermleser]
 - Navn på hjelpemiddel: [f.eks. JAWS]
 - Versjon: [f.eks. 17]
